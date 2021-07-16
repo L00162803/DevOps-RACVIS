@@ -6,12 +6,9 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Monitor  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
-  
+| Pipeline Stage:<br>Monitor  | Client  | Product Owner | Scrum Master  | Dev / Test Mgr  | Dev Team  | Test Team | Operations Team 
+|-----------------------------|-------- | ------------- | ------------- |---------------- |---------- |---------- |---------------- |
+| Collect Data                |         |I              |               |AS               |C          |           |RV               |
+| Report                      |I        |I              |               |AS               |C          |           |RV               |
   
 [Home](../index.md)  

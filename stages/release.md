@@ -6,12 +6,10 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Release  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Pipeline Stage:<br>Release  | Client  | Product Owner | Scrum Master  | Dev / Test Mgr  | Dev Team  | Test Team | Operations Team 
+|-----------------------------|-------- | ------------- | ------------- |---------------- |---------- |---------- |---------------- |
+| Approve Release             |         |V              |               |RS               |A          |C          |I                |
+| Document                    |I        |RVS            |CA             |                 |C          |C          |I                |
   
   
 [Home](../index.md)  
