@@ -4,7 +4,7 @@
 
 ## __Pipeline stage:__  Code  
 ### __Stage description:__  
-Insert your description of the stage here  
+Design and develop the application 
 
 | Pipeline Stage:<br>Code  | Client  | Product Owner | Scrum Master  | Dev / Test Mgr  | Dev Team  | Test Team | Operations Team 
 |--------------------------|-------- | ------------- | ------------- |---------------- |---------- |---------- |---------------- |

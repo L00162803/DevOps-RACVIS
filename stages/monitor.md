@@ -4,7 +4,7 @@
 
 ## __Pipeline stage:__  Monitor  
 ### __Stage description:__  
-Insert your description of the stage here  
+Collect and report operating statistics 
 
 | Pipeline Stage:<br>Monitor  | Client  | Product Owner | Scrum Master  | Dev / Test Mgr  | Dev Team  | Test Team | Operations Team 
 |-----------------------------|-------- | ------------- | ------------- |---------------- |---------- |---------- |---------------- |

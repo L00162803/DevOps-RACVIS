@@ -4,7 +4,7 @@
 
 ## __Pipeline stage:__  Deploy  
 ### __Stage description:__  
-Insert your description of the stage here  
+Move release into production 
 
 | Pipeline Stage:<br>Deploy   | Client  | Product Owner | Scrum Master  | Dev / Test Mgr  | Dev Team  | Test Team | Operations Team 
 |-----------------------------|-------- | ------------- | ------------- |---------------- |---------- |---------- |---------------- |

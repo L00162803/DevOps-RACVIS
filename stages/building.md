@@ -4,7 +4,7 @@
 
 ## __Pipeline stage:__  Build  
 ### __Stage description:__  
-Insert your description of the stage here  
+Approve and prepare the build 
 
 | Pipeline Stage:<br>Build  | Client  | Product Owner | Scrum Master  | Dev / Test Mgr  | Dev Team  | Test Team | Operations Team 
 |---------------------------|-------- | ------------- | ------------- |---------------- |---------- |---------- |---------------- |

@@ -4,7 +4,7 @@
 
 ## __Pipeline stage:__  Operate  
 ### __Stage description:__  
-Insert your description of the stage here  
+Solicit customer feedback 
 
 | Pipeline Stage:<br>Operate  | Client  | Product Owner | Scrum Master  | Dev / Test Mgr  | Dev Team  | Test Team | Operations Team 
 |-----------------------------|-------- | ------------- | ------------- |---------------- |---------- |---------- |---------------- |

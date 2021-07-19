@@ -4,7 +4,7 @@
 
 ## __Pipeline stage:__  Test  
 ### __Stage description:__  
-Insert your description of the stage here  
+Complete automated and manual test suites
 
 | Pipeline Stage:<br>Test  | Client  | Product Owner | Scrum Master  | Dev / Test Mgr  | Dev Team  | Test Team | Operations Team 
 |--------------------------|-------- | ------------- | ------------- |---------------- |---------- |---------- |---------------- |
